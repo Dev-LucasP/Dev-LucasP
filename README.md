@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+!+👋;+Je+suis+Lucas+Perez+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I+am+Lucas+Perez+!;" />
 </h1>
 
-<h3 align="center">Étudiant en deuxième année de BUT informatique</h3>
+<h3 align="center">Second-year Computer Science student at a university.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Je travaille actuellement sur **un portfolio**
+ 🔭 I am currently working on **a portfolio**.
  
- 🌱 J'apprends actuellement **Php, Java, PL/SQL**
+ 🌱 I'm currently learning **PHP, Laravel, Java, PL/SQL**.
 
 </div>
  
@@ -28,10 +28,12 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Langages-Outils ⚒️</h2>
+<h2 align="center">⚒️ Languages and tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,javascript,java,flask,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,python,java,gradle,flask,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,phpstorm,pycharm,idea,git,github,gitlab,linux,windows" />
+    <br>
 </div>
 
 <br/>
