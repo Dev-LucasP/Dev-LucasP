@@ -5,14 +5,6 @@
 <h3 align="center">Étudiant en 3ème année de BUT Informatique.</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 Je travaille actuellement sur **un portfolio**.
- 
- 🌱 J'apprends actuellement **PHP, Laravel, Java, PL/SQL**.
-
-</div>
  
 <div align="center"> 
   <a href="mailto:lucas.perez59450@gmail.com">
